@@ -1,1 +1,6 @@
 BrainStorm-Projeto-Estacionamento-2SIB
+Permitir pagamento com cartão crédito/débito
+Controlar o horário de entrada e saída de veículos, para calcular o preço
+Controlar a lotação do estacionamento
+Procurar lugares opcionais para estacionar em dias muito cheios
+Posicionar faróis mostrando a quantidade e a direção das vagas disponíveis
